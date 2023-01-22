@@ -1,0 +1,14 @@
+numpy==1.17.5
+filterpy==1.4.5
+numba==0.49.0
+lap==0.4.0
+torch==1.4.0
+torchvision==0.5.0
+pycocotools==2.0
+opencv-python==4.2.0.34
+tqdm==4.44.1
+tensorboard==2.2.1
+tensorboardX==2.0
+pyyaml==5.3.1
+webcolors==1.11.1
+albumentations==0.4.5
